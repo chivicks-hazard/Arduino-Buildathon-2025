@@ -1,0 +1,9 @@
+# Builds
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+
+# Dependencies
+node_modules
